@@ -101,9 +101,9 @@ function draw() {
         const drifaHeight = total > 0 ? totalHeight * (item.drifaVolume / total) : 0;
         const bruolHeight = totalHeight - drifaHeight;
 
-        fill(ORANGE);
-        rect(x, baseline - drifaHeight, barWidth, drifaHeight);
         fill(BLACK);
+        rect(x, baseline - drifaHeight, barWidth, drifaHeight);
+        fill(ORANGE);
         rect(x, baseline - totalHeight, barWidth, bruolHeight);
     }
 
