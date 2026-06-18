@@ -11,7 +11,7 @@ const BLACK = "#20201f";
 
 function setup() {
     createCanvas(800, 1131);
-    pixelDensity(2);
+    pixelDensity(new URLSearchParams(window.location.search).has("print") ? 6 : 2);
     textFont("Bauhaus, Crescendo Display, sans-serif");
     noLoop();
     redraw();
@@ -82,10 +82,10 @@ function draw() {
     textStyle(NORMAL);
     textSize(74);
     textAlign(LEFT, TOP);
-    fill(ORANGE);
+    fill(BLACK);
     text("DRIFA", left, 58);
     textAlign(RIGHT, TOP);
-    fill(BLACK);
+    fill(ORANGE);
     text("BRUOL", right, 58);
 
     const totals = workouts.map((d) => d.drifaVolume + d.bruolVolume);

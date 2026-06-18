@@ -37,3 +37,21 @@ canvas {
   max-height: calc(100vh - 32px);
   box-shadow: 0 20px 70px rgb(0 0 0 / 35%);
 }
+
+@page {
+  size: A4 portrait;
+  margin: 0;
+}
+
+@media print {
+  body {
+    background: transparent;
+  }
+
+  canvas {
+    width: 210mm !important;
+    height: 297mm !important;
+    max-height: none;
+    box-shadow: none;
+  }
+}
