@@ -1,0 +1,1565 @@
+{
+  "match_count": 36,
+  "settings": {
+    "timezone": "Europe/Zurich",
+    "max_hours": 4.0,
+    "min_activity_similarity": 0.25
+  },
+  "matches": [
+    {
+      "score": 0.7825,
+      "time_difference_minutes": 0.6,
+      "activity_id_similarity": 0.6667,
+      "common_activity_ids": [
+        "527DA061",
+        "68CE0B9B",
+        "878CD1D0",
+        "C6C9B8A0",
+        "CC016611",
+        "D2387AB1"
+      ],
+      "left": {
+        "id": "35e2a8e6-d9bd-410c-8161-53167adbff79",
+        "short_id": "LgWTK01bZSu",
+        "username": "drifa",
+        "name": "Perfect start to the day 💪",
+        "start_time": "2026-06-15T08:39:31+02:00",
+        "activity_ids": [
+          "4d186641-bf14-4e05-be55-6effbe4b9b19",
+          "527DA061",
+          "68CE0B9B",
+          "878CD1D0",
+          "C6C9B8A0",
+          "CC016611",
+          "D2387AB1"
+        ]
+      },
+      "right": {
+        "id": "2326c608-68e8-46de-821c-318e1550a082",
+        "short_id": "TnyDUSoyKLK",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2026-06-15T08:40:04+02:00",
+        "activity_ids": [
+          "1B2B1E7C",
+          "527DA061",
+          "68CE0B9B",
+          "878CD1D0",
+          "C6C9B8A0",
+          "CC016611",
+          "D2387AB1",
+          "cc3f6382-5358-4db7-aa64-650312ade675"
+        ]
+      }
+    },
+    {
+      "score": 0.8915,
+      "time_difference_minutes": 0.1,
+      "activity_id_similarity": 0.8333,
+      "common_activity_ids": [
+        "0393F233",
+        "09C9F635",
+        "218DA87C",
+        "3601968B",
+        "527DA061",
+        "567FB505",
+        "6BE68B62",
+        "7E3BC8B6",
+        "C6C9B8A0",
+        "D8911FC4"
+      ],
+      "left": {
+        "id": "274005be-cc95-4178-856b-53bd61d39835",
+        "short_id": "qfIet2jKHw5",
+        "username": "drifa",
+        "name": "Afternoon workout w Lorin",
+        "start_time": "2026-06-09T15:33:54+02:00",
+        "activity_ids": [
+          "0393F233",
+          "09C9F635",
+          "218DA87C",
+          "3601968B",
+          "4d186641-bf14-4e05-be55-6effbe4b9b19",
+          "527DA061",
+          "567FB505",
+          "6BE68B62",
+          "7E3BC8B6",
+          "C6C9B8A0",
+          "D8911FC4"
+        ]
+      },
+      "right": {
+        "id": "1ad1dd10-9965-4554-89bc-1f454a22b955",
+        "short_id": "KzDbT88JLpq",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2026-06-09T15:33:59+02:00",
+        "activity_ids": [
+          "0393F233",
+          "09C9F635",
+          "218DA87C",
+          "3601968B",
+          "527DA061",
+          "567FB505",
+          "6BE68B62",
+          "7E3BC8B6",
+          "C6C9B8A0",
+          "D8911FC4",
+          "cc3f6382-5358-4db7-aa64-650312ade675"
+        ]
+      }
+    },
+    {
+      "score": 0.6734,
+      "time_difference_minutes": 1.1,
+      "activity_id_similarity": 0.5,
+      "common_activity_ids": [
+        "422B08F1",
+        "527DA061",
+        "68CE0B9B",
+        "BE640BA0"
+      ],
+      "left": {
+        "id": "67c4e9c6-b099-4083-bbe7-831b8a9b6a62",
+        "short_id": "bpBlN6ZekSY",
+        "username": "drifa",
+        "name": "Legs",
+        "start_time": "2026-06-04T09:49:30+02:00",
+        "activity_ids": [
+          "2B4B7310",
+          "422B08F1",
+          "4d186641-bf14-4e05-be55-6effbe4b9b19",
+          "527DA061",
+          "68CE0B9B",
+          "BE640BA0"
+        ]
+      },
+      "right": {
+        "id": "a78c272f-9850-4b19-a152-419517bad059",
+        "short_id": "sEmbitEs0YM",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2026-06-04T09:50:37+02:00",
+        "activity_ids": [
+          "422B08F1",
+          "527DA061",
+          "68CE0B9B",
+          "BE640BA0",
+          "C6272009",
+          "cc3f6382-5358-4db7-aa64-650312ade675"
+        ]
+      }
+    },
+    {
+      "score": 0.8328,
+      "time_difference_minutes": 3.2,
+      "activity_id_similarity": 0.75,
+      "common_activity_ids": [
+        "527DA061",
+        "68CE0B9B",
+        "6BE68B62",
+        "878CD1D0",
+        "C6C9B8A0",
+        "D8911FC4"
+      ],
+      "left": {
+        "id": "a69d65bb-9584-4cde-a889-3de29cb18252",
+        "short_id": "4xBcbmP9gne",
+        "username": "drifa",
+        "name": "Sunday with Lorin 🫶🫶🫶",
+        "start_time": "2026-05-10T09:53:48+02:00",
+        "activity_ids": [
+          "4d186641-bf14-4e05-be55-6effbe4b9b19",
+          "527DA061",
+          "68CE0B9B",
+          "6BE68B62",
+          "878CD1D0",
+          "C6C9B8A0",
+          "D8911FC4"
+        ]
+      },
+      "right": {
+        "id": "c0936876-5389-4bd1-a9f3-3ed06a04efb5",
+        "short_id": "00cc0M6j8i7",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2026-05-10T09:57:02+02:00",
+        "activity_ids": [
+          "527DA061",
+          "68CE0B9B",
+          "6BE68B62",
+          "878CD1D0",
+          "C6C9B8A0",
+          "D8911FC4",
+          "cc3f6382-5358-4db7-aa64-650312ade675"
+        ]
+      }
+    },
+    {
+      "score": 0.64,
+      "time_difference_minutes": 3.8,
+      "activity_id_similarity": 0.4545,
+      "common_activity_ids": [
+        "09C9F635",
+        "47B9DF13",
+        "6BE68B62",
+        "75A4F6C4",
+        "B8127AD1"
+      ],
+      "left": {
+        "id": "7f3b543a-2c74-46c2-8a9e-edb0bf424fdb",
+        "short_id": "czElsa0W0LT",
+        "username": "drifa",
+        "name": "Leg day x Lorin",
+        "start_time": "2026-04-24T13:56:01+02:00",
+        "activity_ids": [
+          "09C9F635",
+          "47B9DF13",
+          "4d186641-bf14-4e05-be55-6effbe4b9b19",
+          "6BE68B62",
+          "75A4F6C4",
+          "782d08e6-8396-4153-9ae8-f33f19cee6c0",
+          "B8127AD1",
+          "D57C2EC7"
+        ]
+      },
+      "right": {
+        "id": "1b62f800-f419-41b3-bc95-5cf36255e9ef",
+        "short_id": "7vmR0yykzql",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2026-04-24T13:52:16+02:00",
+        "activity_ids": [
+          "09C9F635",
+          "0c61edd9-81f9-4c6b-a68d-055e438cb8c5",
+          "47B9DF13",
+          "527DA061",
+          "68CE0B9B",
+          "6BE68B62",
+          "75A4F6C4",
+          "B8127AD1"
+        ]
+      }
+    },
+    {
+      "score": 0.8373,
+      "time_difference_minutes": 0.1,
+      "activity_id_similarity": 0.75,
+      "common_activity_ids": [
+        "0393F233",
+        "218DA87C",
+        "527DA061",
+        "878CD1D0",
+        "CC016611",
+        "EB43ADD4"
+      ],
+      "left": {
+        "id": "93e0dcd6-15ed-4bce-9618-9aa91f29ca69",
+        "short_id": "4hvMmraOg79",
+        "username": "drifa",
+        "name": "Morning workout ☀️",
+        "start_time": "2026-04-19T10:45:07+02:00",
+        "activity_ids": [
+          "0393F233",
+          "218DA87C",
+          "4d186641-bf14-4e05-be55-6effbe4b9b19",
+          "527DA061",
+          "878CD1D0",
+          "CC016611",
+          "EB43ADD4"
+        ]
+      },
+      "right": {
+        "id": "80abfe30-3b02-4ebb-b966-9cc4f8471c47",
+        "short_id": "bBKzbSIGUCM",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2026-04-19T10:45:00+02:00",
+        "activity_ids": [
+          "0393F233",
+          "218DA87C",
+          "527DA061",
+          "878CD1D0",
+          "CC016611",
+          "EB43ADD4",
+          "cc3f6382-5358-4db7-aa64-650312ade675"
+        ]
+      }
+    },
+    {
+      "score": 0.8121,
+      "time_difference_minutes": 1.5,
+      "activity_id_similarity": 0.7143,
+      "common_activity_ids": [
+        "527DA061",
+        "68CE0B9B",
+        "8BEBFED6",
+        "C6C9B8A0",
+        "F4B4C6EE"
+      ],
+      "left": {
+        "id": "fcfb4d14-a0bd-40e9-be65-b97d34fe0f7b",
+        "short_id": "udR8mZc5AsJ",
+        "username": "drifa",
+        "name": "Finally back at it 💪",
+        "start_time": "2026-04-15T17:17:48+02:00",
+        "activity_ids": [
+          "2B4B7310",
+          "527DA061",
+          "68CE0B9B",
+          "8BEBFED6",
+          "C6C9B8A0",
+          "F4B4C6EE"
+        ]
+      },
+      "right": {
+        "id": "10db817e-4c75-4429-b48c-f1f1e675aaa3",
+        "short_id": "Kx3no8Jj0M8",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2026-04-15T17:16:18+02:00",
+        "activity_ids": [
+          "527DA061",
+          "68CE0B9B",
+          "8BEBFED6",
+          "C6272009",
+          "C6C9B8A0",
+          "F4B4C6EE"
+        ]
+      }
+    },
+    {
+      "score": 0.6676,
+      "time_difference_minutes": 5.1,
+      "activity_id_similarity": 0.5,
+      "common_activity_ids": [
+        "527DA061",
+        "68CE0B9B",
+        "8BEBFED6",
+        "F4B4C6EE"
+      ],
+      "left": {
+        "id": "25e43279-9aad-4b0d-bfc8-a9bbd832fecb",
+        "short_id": "GGTRx82iv4v",
+        "username": "drifa",
+        "name": "Legs",
+        "start_time": "2026-03-27T14:09:35+01:00",
+        "activity_ids": [
+          "2B4B7310",
+          "4d186641-bf14-4e05-be55-6effbe4b9b19",
+          "527DA061",
+          "68CE0B9B",
+          "8BEBFED6",
+          "F4B4C6EE"
+        ]
+      },
+      "right": {
+        "id": "bf74cdcc-a6a8-4dd0-871c-fdc31e630244",
+        "short_id": "3H6Et0dU1g2",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2026-03-27T14:14:41+01:00",
+        "activity_ids": [
+          "527DA061",
+          "68CE0B9B",
+          "8BEBFED6",
+          "C6272009",
+          "F4B4C6EE",
+          "cc3f6382-5358-4db7-aa64-650312ade675"
+        ]
+      }
+    },
+    {
+      "score": 0.8033,
+      "time_difference_minutes": 1.2,
+      "activity_id_similarity": 0.7,
+      "common_activity_ids": [
+        "0393F233",
+        "1006DF48",
+        "2C37EC5E",
+        "567FB505",
+        "6BE68B62",
+        "C6C9B8A0",
+        "D2387AB1"
+      ],
+      "left": {
+        "id": "09438273-6e08-430c-b300-47c14bde3de1",
+        "short_id": "66JefqvqgF9",
+        "username": "drifa",
+        "name": "Upper body day 💪",
+        "start_time": "2026-03-22T11:17:24+01:00",
+        "activity_ids": [
+          "0393F233",
+          "1006DF48",
+          "2C37EC5E",
+          "527DA061",
+          "567FB505",
+          "6BE68B62",
+          "BE89C631",
+          "C6C9B8A0",
+          "D2387AB1"
+        ]
+      },
+      "right": {
+        "id": "ba9fa672-1d45-4cde-a5d8-80aa8821f3da",
+        "short_id": "Qo1kiQ2GRCk",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2026-03-22T11:18:35+01:00",
+        "activity_ids": [
+          "0393F233",
+          "1006DF48",
+          "2C37EC5E",
+          "3601968B",
+          "567FB505",
+          "6BE68B62",
+          "C6C9B8A0",
+          "D2387AB1"
+        ]
+      }
+    },
+    {
+      "score": 0.8133,
+      "time_difference_minutes": 0.7,
+      "activity_id_similarity": 0.7143,
+      "common_activity_ids": [
+        "527DA061",
+        "75A4F6C4",
+        "D2387AB1",
+        "D7D7FCCE",
+        "EB43ADD4"
+      ],
+      "left": {
+        "id": "8a0f8351-5487-46a4-8f46-59c21ead68a9",
+        "short_id": "HdwXbRma8WV",
+        "username": "drifa",
+        "name": "Full body day ✨",
+        "start_time": "2026-03-15T15:51:08+01:00",
+        "activity_ids": [
+          "2B4B7310",
+          "527DA061",
+          "75A4F6C4",
+          "D2387AB1",
+          "D7D7FCCE",
+          "EB43ADD4"
+        ]
+      },
+      "right": {
+        "id": "acdb7559-cbc3-4cce-b98f-db1005f270f2",
+        "short_id": "JR8VzFbED4m",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2026-03-15T15:50:28+01:00",
+        "activity_ids": [
+          "527DA061",
+          "75A4F6C4",
+          "C6272009",
+          "D2387AB1",
+          "D7D7FCCE",
+          "EB43ADD4"
+        ]
+      }
+    },
+    {
+      "score": 0.7814,
+      "time_difference_minutes": 1.3,
+      "activity_id_similarity": 0.6667,
+      "common_activity_ids": [
+        "4180C405",
+        "55E6546F",
+        "79D0BB3A",
+        "B5EFBF9C"
+      ],
+      "left": {
+        "id": "f0eaeabb-163f-4bf5-a704-e8d86ef4fe1d",
+        "short_id": "ON9yGFZrSvx",
+        "username": "drifa",
+        "name": "Upper body day 💪",
+        "start_time": "2026-03-09T12:15:48+01:00",
+        "activity_ids": [
+          "4180C405",
+          "55E6546F",
+          "79D0BB3A",
+          "B5EFBF9C"
+        ]
+      },
+      "right": {
+        "id": "73afce53-5350-4047-a5e3-0873402725b7",
+        "short_id": "izsMrlMjybT",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2026-03-09T12:14:29+01:00",
+        "activity_ids": [
+          "3601968B",
+          "4180C405",
+          "55E6546F",
+          "79D0BB3A",
+          "B5EFBF9C",
+          "D2387AB1"
+        ]
+      }
+    },
+    {
+      "score": 0.9272,
+      "time_difference_minutes": 0.4,
+      "activity_id_similarity": 0.8889,
+      "common_activity_ids": [
+        "0393F233",
+        "4F942934",
+        "527DA061",
+        "567FB505",
+        "6BE68B62",
+        "878CD1D0",
+        "C6C9B8A0",
+        "D2387AB1"
+      ],
+      "left": {
+        "id": "271bae17-2131-415d-b449-d9aa75198d92",
+        "short_id": "y33MEfHmiPZ",
+        "username": "drifa",
+        "name": "Upper body day 💪",
+        "start_time": "2026-03-01T10:16:58+01:00",
+        "activity_ids": [
+          "0393F233",
+          "4F942934",
+          "527DA061",
+          "567FB505",
+          "6BE68B62",
+          "878CD1D0",
+          "C6C9B8A0",
+          "D2387AB1"
+        ]
+      },
+      "right": {
+        "id": "510fd654-1db2-4965-b4bf-e5c5ecd594a2",
+        "short_id": "9nBvutYcKaK",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2026-03-01T10:17:23+01:00",
+        "activity_ids": [
+          "0393F233",
+          "4F942934",
+          "527DA061",
+          "567FB505",
+          "6BE68B62",
+          "7E3BC8B6",
+          "878CD1D0",
+          "C6C9B8A0",
+          "D2387AB1"
+        ]
+      }
+    },
+    {
+      "score": 0.7815,
+      "time_difference_minutes": 1.3,
+      "activity_id_similarity": 0.6667,
+      "common_activity_ids": [
+        "527DA061",
+        "68CE0B9B",
+        "B5D3A742",
+        "C6C9B8A0"
+      ],
+      "left": {
+        "id": "3f5592ce-c78c-4c36-a519-09eb2079a520",
+        "short_id": "GkZmyVqKDMn",
+        "username": "drifa",
+        "name": "Legs",
+        "start_time": "2026-02-15T10:21:01+01:00",
+        "activity_ids": [
+          "2B4B7310",
+          "527DA061",
+          "68CE0B9B",
+          "B5D3A742",
+          "C6C9B8A0"
+        ]
+      },
+      "right": {
+        "id": "a5e6f590-7fe8-4c80-9265-00145ed1bb5c",
+        "short_id": "9GpMxCUkJQ1",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2026-02-15T10:22:18+01:00",
+        "activity_ids": [
+          "527DA061",
+          "68CE0B9B",
+          "B5D3A742",
+          "C6272009",
+          "C6C9B8A0"
+        ]
+      }
+    },
+    {
+      "score": 0.814,
+      "time_difference_minutes": 0.2,
+      "activity_id_similarity": 0.7143,
+      "common_activity_ids": [
+        "527DA061",
+        "8BEBFED6",
+        "B5D3A742",
+        "D57C2EC7",
+        "F4B4C6EE"
+      ],
+      "left": {
+        "id": "5cd8149b-c080-49db-b11e-675562a499d3",
+        "short_id": "YUbggF7EfVw",
+        "username": "drifa",
+        "name": "Legs with Lorin",
+        "start_time": "2026-01-21T17:20:34+01:00",
+        "activity_ids": [
+          "47B9DF13",
+          "527DA061",
+          "8BEBFED6",
+          "B5D3A742",
+          "D57C2EC7",
+          "F4B4C6EE"
+        ]
+      },
+      "right": {
+        "id": "9af80a7e-d9ed-4041-88d2-3aef9cd1a445",
+        "short_id": "7yHmkTgLhDa",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2026-01-21T17:20:21+01:00",
+        "activity_ids": [
+          "527DA061",
+          "8BEBFED6",
+          "91237BDD",
+          "B5D3A742",
+          "D57C2EC7",
+          "F4B4C6EE"
+        ]
+      }
+    },
+    {
+      "score": 0.8364,
+      "time_difference_minutes": 0.7,
+      "activity_id_similarity": 0.75,
+      "common_activity_ids": [
+        "527DA061",
+        "5DA40761",
+        "8BEBFED6",
+        "B5D3A742",
+        "D57C2EC7",
+        "F4B4C6EE"
+      ],
+      "left": {
+        "id": "5c500e92-b22d-4d04-862d-31052aae66a9",
+        "short_id": "gCzF6M91EvQ",
+        "username": "drifa",
+        "name": "Leg day with Lorin 🔥",
+        "start_time": "2026-01-03T16:18:03+01:00",
+        "activity_ids": [
+          "4d186641-bf14-4e05-be55-6effbe4b9b19",
+          "527DA061",
+          "5DA40761",
+          "8BEBFED6",
+          "B5D3A742",
+          "D57C2EC7",
+          "F4B4C6EE"
+        ]
+      },
+      "right": {
+        "id": "30dd394e-556e-4308-abf5-ead2905576a1",
+        "short_id": "qVadEuCdfJT",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2026-01-03T16:18:47+01:00",
+        "activity_ids": [
+          "527DA061",
+          "5DA40761",
+          "8BEBFED6",
+          "B5D3A742",
+          "D57C2EC7",
+          "F4B4C6EE",
+          "F8356514"
+        ]
+      }
+    },
+    {
+      "score": 0.6748,
+      "time_difference_minutes": 0.2,
+      "activity_id_similarity": 0.5,
+      "common_activity_ids": [
+        "0393F233",
+        "0EB695C9",
+        "79D0BB3A",
+        "D2387AB1",
+        "EB43ADD4"
+      ],
+      "left": {
+        "id": "0e7185d2-7831-4f00-b070-271daffb59b8",
+        "short_id": "ZspC9n4ifcE",
+        "username": "drifa",
+        "name": "Last workout of the year 🔥",
+        "start_time": "2025-12-31T11:41:40+01:00",
+        "activity_ids": [
+          "0393F233",
+          "0EB695C9",
+          "2B4B7310",
+          "47B9DF13",
+          "79D0BB3A",
+          "A05C064D",
+          "D2387AB1",
+          "EB43ADD4"
+        ]
+      },
+      "right": {
+        "id": "e29aff49-9c7a-46d5-9dc1-61ce3c0272ac",
+        "short_id": "lxa2OFdNUs4",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-12-31T11:41:50+01:00",
+        "activity_ids": [
+          "0393F233",
+          "0EB695C9",
+          "79D0BB3A",
+          "91237BDD",
+          "C6272009",
+          "D2387AB1",
+          "EB43ADD4"
+        ]
+      }
+    },
+    {
+      "score": 0.9961,
+      "time_difference_minutes": 2.7,
+      "activity_id_similarity": 1.0,
+      "common_activity_ids": [
+        "218DA87C",
+        "527DA061",
+        "55E6546F",
+        "68CE0B9B",
+        "79D0BB3A",
+        "C6C9B8A0"
+      ],
+      "left": {
+        "id": "d91bfa11-a6d9-46cc-b482-66fb611e856e",
+        "short_id": "ri0Z2WF1Pk8",
+        "username": "drifa",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-12-07T15:56:27+01:00",
+        "activity_ids": [
+          "218DA87C",
+          "527DA061",
+          "55E6546F",
+          "68CE0B9B",
+          "79D0BB3A",
+          "C6C9B8A0"
+        ]
+      },
+      "right": {
+        "id": "14959f3b-5d2b-4c63-be6a-bc46720533c5",
+        "short_id": "HxoPxXXxYp2",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-12-07T15:59:08+01:00",
+        "activity_ids": [
+          "218DA87C",
+          "527DA061",
+          "55E6546F",
+          "68CE0B9B",
+          "79D0BB3A",
+          "C6C9B8A0"
+        ]
+      }
+    },
+    {
+      "score": 0.9927,
+      "time_difference_minutes": 5.0,
+      "activity_id_similarity": 1.0,
+      "common_activity_ids": [
+        "0393F233",
+        "527DA061",
+        "6A6C31A5",
+        "79D0BB3A",
+        "C6C9B8A0",
+        "EB43ADD4"
+      ],
+      "left": {
+        "id": "64c62e49-1377-453c-9f15-aeb9b557220a",
+        "short_id": "5fLkYq2ZVoS",
+        "username": "drifa",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-11-30T16:04:58+01:00",
+        "activity_ids": [
+          "0393F233",
+          "527DA061",
+          "6A6C31A5",
+          "79D0BB3A",
+          "C6C9B8A0",
+          "EB43ADD4"
+        ]
+      },
+      "right": {
+        "id": "f233038d-9562-4809-8994-e6178fb6f6cb",
+        "short_id": "SUuQtecPKI1",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-11-30T15:59:56+01:00",
+        "activity_ids": [
+          "0393F233",
+          "527DA061",
+          "6A6C31A5",
+          "79D0BB3A",
+          "C6C9B8A0",
+          "EB43ADD4"
+        ]
+      }
+    },
+    {
+      "score": 0.5741,
+      "time_difference_minutes": 13.4,
+      "activity_id_similarity": 0.375,
+      "common_activity_ids": [
+        "8BEBFED6",
+        "B5D3A742",
+        "F4B4C6EE"
+      ],
+      "left": {
+        "id": "55646eb1-38cb-4a13-a99d-af26cd811b9c",
+        "short_id": "J8CBKujzAJ1",
+        "username": "drifa",
+        "name": "Legday w Lorin",
+        "start_time": "2025-11-23T09:23:46+01:00",
+        "activity_ids": [
+          "2B4B7310",
+          "47B9DF13",
+          "527DA061",
+          "8BEBFED6",
+          "B5D3A742",
+          "F4B4C6EE"
+        ]
+      },
+      "right": {
+        "id": "9e86771e-6af9-4c2d-ae21-f389cf53f71e",
+        "short_id": "dsQQOL9DbgU",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2025-11-23T09:37:13+01:00",
+        "activity_ids": [
+          "8BEBFED6",
+          "91237BDD",
+          "B5D3A742",
+          "C6272009",
+          "F4B4C6EE"
+        ]
+      }
+    },
+    {
+      "score": 0.7562,
+      "time_difference_minutes": 0.0,
+      "activity_id_similarity": 0.625,
+      "common_activity_ids": [
+        "1006DF48",
+        "3601968B",
+        "878CD1D0",
+        "93A552C6",
+        "FAB6EB2F"
+      ],
+      "left": {
+        "id": "cb40c48a-8e2c-444f-863a-b2317dcb5d6f",
+        "short_id": "q05n8wnYbwb",
+        "username": "drifa",
+        "name": "Upper body day 💪",
+        "start_time": "2025-11-17T18:33:20+01:00",
+        "activity_ids": [
+          "1006DF48",
+          "3601968B",
+          "878CD1D0",
+          "93A552C6",
+          "FAB6EB2F"
+        ]
+      },
+      "right": {
+        "id": "34e49f1e-94c7-4da9-9988-8d981628f975",
+        "short_id": "baV2h6MkcLt",
+        "username": "bruol",
+        "name": "Evening workout 🏋️",
+        "start_time": "2025-11-17T18:33:21+01:00",
+        "activity_ids": [
+          "0393F233",
+          "1006DF48",
+          "3601968B",
+          "878CD1D0",
+          "93A552C6",
+          "C6272009",
+          "D2387AB1",
+          "FAB6EB2F"
+        ]
+      }
+    },
+    {
+      "score": 0.6711,
+      "time_difference_minutes": 2.6,
+      "activity_id_similarity": 0.5,
+      "common_activity_ids": [
+        "4F942934",
+        "55E6546F",
+        "878CD1D0",
+        "D2387AB1"
+      ],
+      "left": {
+        "id": "6ba97ddc-bf75-47fe-8a10-9e24d1fecdd5",
+        "short_id": "oz5M4e6NPIR",
+        "username": "drifa",
+        "name": "Upper body day 💪",
+        "start_time": "2025-11-12T17:01:34+01:00",
+        "activity_ids": [
+          "09C9F635",
+          "218DA87C",
+          "4F942934",
+          "527DA061",
+          "55E6546F",
+          "878CD1D0",
+          "C6C9B8A0",
+          "D2387AB1"
+        ]
+      },
+      "right": {
+        "id": "b03e7342-9d5a-434e-8f18-ddc34df9981b",
+        "short_id": "99F5ueEuK40",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-11-12T16:58:55+01:00",
+        "activity_ids": [
+          "4F942934",
+          "55E6546F",
+          "878CD1D0",
+          "D2387AB1"
+        ]
+      }
+    },
+    {
+      "score": 0.9069,
+      "time_difference_minutes": 0.1,
+      "activity_id_similarity": 0.8571,
+      "common_activity_ids": [
+        "3601968B",
+        "8BEBFED6",
+        "93A552C6",
+        "A05C064D",
+        "EB43ADD4",
+        "F4B4C6EE"
+      ],
+      "left": {
+        "id": "35b83bcd-9b2b-475f-b01c-2c6b2952ca0e",
+        "short_id": "Ceac6RgIMEb",
+        "username": "drifa",
+        "name": "Sunday w Lorin",
+        "start_time": "2025-11-09T14:18:09+01:00",
+        "activity_ids": [
+          "3601968B",
+          "527DA061",
+          "8BEBFED6",
+          "93A552C6",
+          "A05C064D",
+          "EB43ADD4",
+          "F4B4C6EE"
+        ]
+      },
+      "right": {
+        "id": "5b57a605-9798-4aec-89d9-585fe5a36f31",
+        "short_id": "2pVLRmTcz24",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-11-09T14:18:18+01:00",
+        "activity_ids": [
+          "3601968B",
+          "8BEBFED6",
+          "93A552C6",
+          "A05C064D",
+          "EB43ADD4",
+          "F4B4C6EE"
+        ]
+      }
+    },
+    {
+      "score": 0.7549,
+      "time_difference_minutes": 0.9,
+      "activity_id_similarity": 0.625,
+      "common_activity_ids": [
+        "0393F233",
+        "238BA231",
+        "422B08F1",
+        "5E1A7777",
+        "79D0BB3A"
+      ],
+      "left": {
+        "id": "a5d715d7-fd7c-407d-b952-5cee5bd46e6c",
+        "short_id": "dvQKCmRhm62",
+        "username": "drifa",
+        "name": "Morning workout ☀️",
+        "start_time": "2025-11-02T11:23:29+01:00",
+        "activity_ids": [
+          "0393F233",
+          "238BA231",
+          "422B08F1",
+          "4d186641-bf14-4e05-be55-6effbe4b9b19",
+          "5E1A7777",
+          "79D0BB3A"
+        ]
+      },
+      "right": {
+        "id": "a655e5c2-db80-4c0e-ad9a-81d026c17851",
+        "short_id": "8Xq7MDCEXLq",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2025-11-02T11:22:35+01:00",
+        "activity_ids": [
+          "0393F233",
+          "238BA231",
+          "422B08F1",
+          "527DA061",
+          "5E1A7777",
+          "79D0BB3A",
+          "cc3f6382-5358-4db7-aa64-650312ade675"
+        ]
+      }
+    },
+    {
+      "score": 0.9931,
+      "time_difference_minutes": 4.8,
+      "activity_id_similarity": 1.0,
+      "common_activity_ids": [
+        "0393F233",
+        "4F942934",
+        "6A6C31A5",
+        "878CD1D0"
+      ],
+      "left": {
+        "id": "efd62991-a038-4fd0-a1fb-c5c5f28a5ebd",
+        "short_id": "8qA8yzsNlaR",
+        "username": "drifa",
+        "name": "Upper body day 💪",
+        "start_time": "2025-10-10T15:24:41+02:00",
+        "activity_ids": [
+          "0393F233",
+          "4F942934",
+          "6A6C31A5",
+          "878CD1D0"
+        ]
+      },
+      "right": {
+        "id": "249b54d0-d5c6-4e98-9268-475f26a9b436",
+        "short_id": "UaqynaEhDXy",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-10-10T15:19:56+02:00",
+        "activity_ids": [
+          "0393F233",
+          "4F942934",
+          "6A6C31A5",
+          "878CD1D0"
+        ]
+      }
+    },
+    {
+      "score": 0.9993,
+      "time_difference_minutes": 0.5,
+      "activity_id_similarity": 1.0,
+      "common_activity_ids": [
+        "091737FA",
+        "218DA87C",
+        "422B08F1",
+        "527DA061",
+        "567FB505",
+        "6BE68B62",
+        "D928C232"
+      ],
+      "left": {
+        "id": "38dc98af-d683-4a5f-ba51-3d8393d72ac2",
+        "short_id": "r07kkBHbMjF",
+        "username": "drifa",
+        "name": "Workout w Lorin",
+        "start_time": "2025-08-19T17:04:21+02:00",
+        "activity_ids": [
+          "091737FA",
+          "218DA87C",
+          "422B08F1",
+          "527DA061",
+          "567FB505",
+          "6BE68B62",
+          "D928C232"
+        ]
+      },
+      "right": {
+        "id": "5aa47aa6-ca84-45d1-ac81-b309d8775c1c",
+        "short_id": "2PC5TTJleR3",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-08-19T17:04:49+02:00",
+        "activity_ids": [
+          "091737FA",
+          "218DA87C",
+          "422B08F1",
+          "527DA061",
+          "567FB505",
+          "6BE68B62",
+          "D928C232"
+        ]
+      }
+    },
+    {
+      "score": 0.7386,
+      "time_difference_minutes": 0.9,
+      "activity_id_similarity": 0.6,
+      "common_activity_ids": [
+        "8BEBFED6",
+        "B5D3A742",
+        "F4B4C6EE"
+      ],
+      "left": {
+        "id": "b4e3d29f-d31d-4506-94a9-fc6c64e9fa17",
+        "short_id": "vRE5ujtDaIU",
+        "username": "drifa",
+        "name": "Legs w. Lorin",
+        "start_time": "2025-07-16T15:37:21+02:00",
+        "activity_ids": [
+          "2B4B7310",
+          "8BEBFED6",
+          "B5D3A742",
+          "F4B4C6EE"
+        ]
+      },
+      "right": {
+        "id": "7a3bfede-4255-45bd-954e-d0bfb84600b5",
+        "short_id": "SHgb2wMuVv7",
+        "username": "bruol",
+        "name": "Piggyback riding",
+        "start_time": "2025-07-16T15:38:17+02:00",
+        "activity_ids": [
+          "8BEBFED6",
+          "B5D3A742",
+          "C6272009",
+          "F4B4C6EE"
+        ]
+      }
+    },
+    {
+      "score": 0.8492,
+      "time_difference_minutes": 4.3,
+      "activity_id_similarity": 0.7778,
+      "common_activity_ids": [
+        "09C9F635",
+        "218DA87C",
+        "422B08F1",
+        "55E6546F",
+        "567FB505",
+        "6BE68B62",
+        "C6C9B8A0"
+      ],
+      "left": {
+        "id": "9ae2bcfd-1188-4e6a-a20f-0d292a6b7743",
+        "short_id": "r3ZLIBnnrJz",
+        "username": "drifa",
+        "name": "Afternoon with my favourite babes 💪🥵",
+        "start_time": "2025-07-13T16:26:58+02:00",
+        "activity_ids": [
+          "09C9F635",
+          "218DA87C",
+          "422B08F1",
+          "55E6546F",
+          "567FB505",
+          "6BE68B62",
+          "7B8D84E8",
+          "C6C9B8A0"
+        ]
+      },
+      "right": {
+        "id": "faa9014e-eb50-4de5-8357-85d9664f545d",
+        "short_id": "8xhvVZBBP22",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-07-13T16:22:38+02:00",
+        "activity_ids": [
+          "09C9F635",
+          "218DA87C",
+          "422B08F1",
+          "55E6546F",
+          "567FB505",
+          "6BE68B62",
+          "91AF29E0",
+          "C6C9B8A0"
+        ]
+      }
+    },
+    {
+      "score": 0.7511,
+      "time_difference_minutes": 3.5,
+      "activity_id_similarity": 0.625,
+      "common_activity_ids": [
+        "527DA061",
+        "5DA40761",
+        "8BEBFED6",
+        "ACB2751D",
+        "F4B4C6EE"
+      ],
+      "left": {
+        "id": "0f194863-ad86-4462-a359-05f1a3704fe8",
+        "short_id": "1AQ1f4PhdV3",
+        "username": "drifa",
+        "name": "Legs",
+        "start_time": "2025-07-09T08:23:23+02:00",
+        "activity_ids": [
+          "2B4B7310",
+          "527DA061",
+          "5DA40761",
+          "8BEBFED6",
+          "ACB2751D",
+          "F4B4C6EE"
+        ]
+      },
+      "right": {
+        "id": "f14090e3-f5d5-4a41-8891-9badf5817c36",
+        "short_id": "m3iMf8102mr",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2025-07-09T08:19:51+02:00",
+        "activity_ids": [
+          "392887AA",
+          "527DA061",
+          "5DA40761",
+          "8BEBFED6",
+          "ACB2751D",
+          "C6272009",
+          "F4B4C6EE"
+        ]
+      }
+    },
+    {
+      "score": 0.8909,
+      "time_difference_minutes": 0.5,
+      "activity_id_similarity": 0.8333,
+      "common_activity_ids": [
+        "4F942934",
+        "55E6546F",
+        "79D0BB3A",
+        "C6C9B8A0",
+        "D2387AB1"
+      ],
+      "left": {
+        "id": "2cbe357b-5a28-47e6-857c-80e052534080",
+        "short_id": "TkVP7XSjZLg",
+        "username": "drifa",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-05-09T13:10:21+02:00",
+        "activity_ids": [
+          "4F942934",
+          "55E6546F",
+          "79D0BB3A",
+          "C6C9B8A0",
+          "D2387AB1"
+        ]
+      },
+      "right": {
+        "id": "2ebda483-a18b-4ca5-88f1-f43b516887e2",
+        "short_id": "ZHoQyYkcErn",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-05-09T13:09:50+02:00",
+        "activity_ids": [
+          "4F942934",
+          "527DA061",
+          "55E6546F",
+          "79D0BB3A",
+          "C6C9B8A0",
+          "D2387AB1"
+        ]
+      }
+    },
+    {
+      "score": 0.6715,
+      "time_difference_minutes": 2.4,
+      "activity_id_similarity": 0.5,
+      "common_activity_ids": [
+        "0393F233",
+        "79D0BB3A",
+        "D2387AB1"
+      ],
+      "left": {
+        "id": "92a3515c-edb9-4432-81bc-987aca9176b6",
+        "short_id": "KgpkuR5AzJX",
+        "username": "drifa",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-04-04T13:24:50+02:00",
+        "activity_ids": [
+          "0393F233",
+          "422B08F1",
+          "79D0BB3A",
+          "8347DFD1",
+          "D2387AB1"
+        ]
+      },
+      "right": {
+        "id": "301ece26-d10b-4a8c-8bae-53efbdbc3f23",
+        "short_id": "hooPcZ0SGq4",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-04-04T13:27:14+02:00",
+        "activity_ids": [
+          "0393F233",
+          "79D0BB3A",
+          "878CD1D0",
+          "D2387AB1"
+        ]
+      }
+    },
+    {
+      "score": 0.8504,
+      "time_difference_minutes": 3.6,
+      "activity_id_similarity": 0.7778,
+      "common_activity_ids": [
+        "0393F233",
+        "527DA061",
+        "79D0BB3A",
+        "878CD1D0",
+        "C6C9B8A0",
+        "D2387AB1",
+        "D928C232"
+      ],
+      "left": {
+        "id": "839c37a9-71a9-4b11-a2b6-7eaf3e544c1b",
+        "short_id": "7MUks5LnCnZ",
+        "username": "drifa",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-03-22T14:17:16+01:00",
+        "activity_ids": [
+          "0393F233",
+          "527DA061",
+          "6dacce43-a2cd-4720-a873-60f482f90a32",
+          "79D0BB3A",
+          "878CD1D0",
+          "C6C9B8A0",
+          "D2387AB1",
+          "D928C232"
+        ]
+      },
+      "right": {
+        "id": "141e110e-aed6-42fe-9a19-31fc7616656a",
+        "short_id": "rzeLJSlqEeM",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-03-22T14:20:50+01:00",
+        "activity_ids": [
+          "0393F233",
+          "0eb7cfc9-1517-4f3a-94e5-8a58256698c6",
+          "527DA061",
+          "79D0BB3A",
+          "878CD1D0",
+          "C6C9B8A0",
+          "D2387AB1",
+          "D928C232"
+        ]
+      }
+    },
+    {
+      "score": 0.6088,
+      "time_difference_minutes": 0.8,
+      "activity_id_similarity": 0.4,
+      "common_activity_ids": [
+        "24706DCD",
+        "527DA061",
+        "878CD1D0",
+        "D2387AB1"
+      ],
+      "left": {
+        "id": "c64727dd-c738-4bf9-9949-c444180842fb",
+        "short_id": "gLI3esbfWOw",
+        "username": "drifa",
+        "name": "Morning workout ☀️",
+        "start_time": "2025-03-16T10:28:39+01:00",
+        "activity_ids": [
+          "24706DCD",
+          "37FCC2BB",
+          "527DA061",
+          "878CD1D0",
+          "AA1EB7D8",
+          "C6C9B8A0",
+          "D2387AB1"
+        ]
+      },
+      "right": {
+        "id": "4a8719a0-da61-4031-bb2f-ae5fbb7dc6d1",
+        "short_id": "eUQdGg6kbim",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2025-03-16T10:29:29+01:00",
+        "activity_ids": [
+          "0393F233",
+          "24706DCD",
+          "527DA061",
+          "7E3BC8B6",
+          "878CD1D0",
+          "D2387AB1",
+          "D410F649"
+        ]
+      }
+    },
+    {
+      "score": 0.9179,
+      "time_difference_minutes": 0.6,
+      "activity_id_similarity": 0.875,
+      "common_activity_ids": [
+        "091737FA",
+        "11A123F3",
+        "2B4B7310",
+        "4377A52A",
+        "75A4F6C4",
+        "8BEBFED6",
+        "F4B4C6EE"
+      ],
+      "left": {
+        "id": "95b1f5bc-dfd7-47c6-b587-f78f4de42a03",
+        "short_id": "yWXSNj1Gh5W",
+        "username": "drifa",
+        "name": "Legs",
+        "start_time": "2025-02-23T10:14:03+01:00",
+        "activity_ids": [
+          "091737FA",
+          "11A123F3",
+          "2B4B7310",
+          "4377A52A",
+          "75A4F6C4",
+          "8BEBFED6",
+          "F4B4C6EE"
+        ]
+      },
+      "right": {
+        "id": "6e2c6eee-3008-40e4-b7ae-32659e88427c",
+        "short_id": "TR4HSjTBahJ",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2025-02-23T10:14:37+01:00",
+        "activity_ids": [
+          "091737FA",
+          "11A123F3",
+          "2B4B7310",
+          "4377A52A",
+          "527DA061",
+          "75A4F6C4",
+          "8BEBFED6",
+          "F4B4C6EE"
+        ]
+      }
+    },
+    {
+      "score": 0.7201,
+      "time_difference_minutes": 0.9,
+      "activity_id_similarity": 0.5714,
+      "common_activity_ids": [
+        "091737FA",
+        "878CD1D0",
+        "C6C9B8A0",
+        "D2387AB1"
+      ],
+      "left": {
+        "id": "16a018e3-75a4-4874-9e6d-768cdedcd6eb",
+        "short_id": "RPnT66oAYd1",
+        "username": "drifa",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-02-09T13:29:31+01:00",
+        "activity_ids": [
+          "091737FA",
+          "878CD1D0",
+          "AA1EB7D8",
+          "C6C9B8A0",
+          "D2387AB1"
+        ]
+      },
+      "right": {
+        "id": "16430fb7-ccbb-4e82-b841-fc3b2caac576",
+        "short_id": "cUP8ttxdyNi",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-02-09T13:30:26+01:00",
+        "activity_ids": [
+          "0393F233",
+          "091737FA",
+          "527DA061",
+          "878CD1D0",
+          "C6C9B8A0",
+          "D2387AB1"
+        ]
+      }
+    },
+    {
+      "score": 0.9928,
+      "time_difference_minutes": 4.9,
+      "activity_id_similarity": 1.0,
+      "common_activity_ids": [
+        "0EB695C9",
+        "11A123F3",
+        "47B9DF13",
+        "8BEBFED6",
+        "F4B4C6EE"
+      ],
+      "left": {
+        "id": "fdc33610-e651-44b2-8937-80e47219d337",
+        "short_id": "qyl4ahEOxyN",
+        "username": "drifa",
+        "name": "Sunday workout w Lorin",
+        "start_time": "2025-02-02T09:40:26+01:00",
+        "activity_ids": [
+          "0EB695C9",
+          "11A123F3",
+          "47B9DF13",
+          "8BEBFED6",
+          "F4B4C6EE"
+        ]
+      },
+      "right": {
+        "id": "feef7d2e-1fe9-4cca-87f1-62c1e42421ed",
+        "short_id": "zVtNKAPxIST",
+        "username": "bruol",
+        "name": "Morning workout ☀️",
+        "start_time": "2025-02-02T09:35:31+01:00",
+        "activity_ids": [
+          "0EB695C9",
+          "11A123F3",
+          "47B9DF13",
+          "8BEBFED6",
+          "F4B4C6EE"
+        ]
+      }
+    },
+    {
+      "score": 0.5864,
+      "time_difference_minutes": 5.1,
+      "activity_id_similarity": 0.375,
+      "common_activity_ids": [
+        "022DF610",
+        "2C37EC5E",
+        "878CD1D0"
+      ],
+      "left": {
+        "id": "8b831a3f-09a8-4dfa-a254-dba42b67609c",
+        "short_id": "Fl4txk38wRB",
+        "username": "drifa",
+        "name": "Gym w Lea and Lorin 🫶",
+        "start_time": "2025-01-26T14:28:17+01:00",
+        "activity_ids": [
+          "022DF610",
+          "2C37EC5E",
+          "7EB3F7C3",
+          "878CD1D0",
+          "AA1EB7D8"
+        ]
+      },
+      "right": {
+        "id": "f74f0a7c-1a38-4690-b974-04bdf5fff1e0",
+        "short_id": "1LrJXNa6XEx",
+        "username": "bruol",
+        "name": "Afternoon workout 💪",
+        "start_time": "2025-01-26T14:23:13+01:00",
+        "activity_ids": [
+          "022DF610",
+          "0393F233",
+          "2C37EC5E",
+          "527DA061",
+          "878CD1D0",
+          "FAF31231"
+        ]
+      }
+    }
+  ]
+}

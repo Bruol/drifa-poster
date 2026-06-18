@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Crescendo Display";
+  src: local("Crescendo Display Trial Light"), local("CrescendoDisplayTrial-Light");
+  font-style: normal;
+  font-weight: 300;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  display: grid;
+  min-height: 100vh;
+  place-items: center;
+  overflow: hidden;
+  background: #2b2925;
+}
+
+canvas {
+  display: block;
+  width: min(800px, calc(100vw - 32px));
+  height: auto;
+  max-height: calc(100vh - 32px);
+  box-shadow: 0 20px 70px rgb(0 0 0 / 35%);
+}
