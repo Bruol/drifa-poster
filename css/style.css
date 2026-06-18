@@ -5,6 +5,13 @@
   font-weight: 300;
 }
 
+@font-face {
+  font-family: "Berghan";
+  src: local("Berghan Free"), local("BerghanFree-Regular");
+  font-style: normal;
+  font-weight: 400;
+}
+
 * {
   box-sizing: border-box;
 }

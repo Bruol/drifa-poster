@@ -12,7 +12,7 @@ const BLACK = "#20201f";
 function setup() {
     createCanvas(800, 1131);
     pixelDensity(2);
-    textFont("Crescendo Display Trial Light, Crescendo Display, sans-serif");
+    textFont("Bauhaus, Crescendo Display, sans-serif");
     noLoop();
     redraw();
     loadWorkoutData();
@@ -76,8 +76,8 @@ function draw() {
 
     const left = 64;
     const right = width - 64;
-    const chartTop = 50;
-    const baseline = 1100;
+    const chartTop = 250;
+    const baseline = 1000;
 
     textStyle(NORMAL);
     textSize(74);
