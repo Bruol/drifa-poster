@@ -76,7 +76,7 @@ function draw() {
 
     const left = 64;
     const right = width - 64;
-    const chartTop = 250;
+    const chartTop = 160;
     const baseline = 1000;
 
     textStyle(NORMAL);
@@ -84,19 +84,20 @@ function draw() {
     textAlign(LEFT, TOP);
     fill(ORANGE);
     text("DRIFA", left, 58);
+    textAlign(RIGHT, TOP);
     fill(BLACK);
-    text("BRUOL", left, 126);
+    text("BRUOL", right, 58);
 
     const totals = workouts.map((d) => d.drifaVolume + d.bruolVolume);
     const maxTotal = Math.max(...totals, 1);
-    const gap = 8;
-    const barWidth = (right - left - gap * (workouts.length - 1)) / workouts.length;
+    const slotWidth = (right - left) / workouts.length;
+    const totalHeight = baseline - chartTop;
 
     for (let i = 0; i < workouts.length; i++) {
         const item = workouts[i];
-        const x = left + i * (barWidth + gap);
         const total = item.drifaVolume + item.bruolVolume;
-        const totalHeight = map(sqrt(total), 0, sqrt(maxTotal), 34, baseline - chartTop);
+        const barWidth = map(sqrt(total), 0, sqrt(maxTotal), 2.5, slotWidth * 0.78);
+        const x = left + i * slotWidth + (slotWidth - barWidth) / 2;
         const drifaHeight = total > 0 ? totalHeight * (item.drifaVolume / total) : 0;
         const bruolHeight = totalHeight - drifaHeight;
 
