@@ -5,7 +5,8 @@ let workouts = [];
 let dataReady = false;
 let loadError = false;
 
-const CREAM = "#eee7dc";
+// const CREAM = "#eee7dc";
+const CREAM = "#ffffff";
 const ORANGE = "#d67c4b";
 const BLACK = "#20201f";
 
@@ -13,7 +14,7 @@ const drifa_factor = 2
 
 function setup() {
     createCanvas(800, 1131);
-    pixelDensity(new URLSearchParams(window.location.search).has("print") ? 6 : 2);
+    pixelDensity(8);
     textFont("Bauhaus, Crescendo Display, sans-serif");
     noLoop();
     redraw();
@@ -79,16 +80,16 @@ function draw() {
     const left = 64;
     const right = width - 64;
     const chartTop = 60;
-    const baseline = 1060;
+    const baseline = 1070;
 
     textStyle(NORMAL);
-    textSize(74);
+    textSize(20);
     textAlign(LEFT, TOP);
     fill(BLACK);
-    text("DRIFA", left, 500);
+    text("DRIFA", 67, 40);
     textAlign(RIGHT, TOP);
     fill(ORANGE);
-    text("BRUOL", right, 500);
+    text("BRUOL", width - 67, 1075);
 
     const totals = workouts.map((d) => d.drifaVolume + d.bruolVolume);
     const maxTotal = Math.max(...totals, 1);
@@ -99,6 +100,7 @@ function draw() {
         const item = workouts[i];
         const total = item.drifaVolume * drifa_factor + item.bruolVolume;
         const barWidth = map(sqrt(total), 0, sqrt(maxTotal), 2.5, slotWidth * 0.78);
+        // const barWidth = slotWidth * 0.6;
         const x = left + i * slotWidth + (slotWidth - barWidth) / 2;
         const drifaHeight = total > 0 ? totalHeight * (item.drifaVolume * drifa_factor / total) : 0;
         const bruolHeight = totalHeight - drifaHeight;
