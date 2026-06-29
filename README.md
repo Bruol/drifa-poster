@@ -1,4 +1,7 @@
-# test
+# Poster Design using p5.js
+
+![Workout poster](poster.png)
+
 
 ## Getting Started
 
